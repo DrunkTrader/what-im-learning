@@ -12,3 +12,5 @@ low latency sys - https://www.youtube.com/watch?v=8uAW5FQtcvE
 https://x.com/Baheet_/status/1965758390430208066
 
 AWS - https://www.youtube.com/playlist?list=PL6XT0grm_TfgtwtwUit305qS-HhDvb4du
+
+cpp in quant finance - https://www.youtube.com/watch?v=NeGO8lWDgyo
