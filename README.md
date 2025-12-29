@@ -14,3 +14,15 @@ https://x.com/Baheet_/status/1965758390430208066
 AWS - https://www.youtube.com/playlist?list=PL6XT0grm_TfgtwtwUit305qS-HhDvb4du
 
 cpp in quant finance - https://www.youtube.com/watch?v=NeGO8lWDgyo
+
+Template in C++ : https://www.youtube.com/watch?v=HqsEHG0QJXU
+
+Concurrency in C++ : https://www.youtube.com/watch?v=F6Ipn7gCOsY
+
+https://github.com/quasar-chunawala/order_book_matching
+
+## Some Extras
+
+Develop Trading Strategies : https://www.youtube.com/watch?v=NLBXgSmRBgU
+
+Order Flow : https://www.youtube.com/watch?v=wfjvphj1-LU
