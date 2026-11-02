@@ -21,8 +21,20 @@ Concurrency in C++ : https://www.youtube.com/watch?v=F6Ipn7gCOsY
 
 https://github.com/quasar-chunawala/order_book_matching
 
+https://www.goalkicker.com/CPlusPlusBook/CPlusPlusNotesForProfessionals.pdf
+
 ## Some Extras
 
 Develop Trading Strategies : https://www.youtube.com/watch?v=NLBXgSmRBgU
 
 Order Flow : https://www.youtube.com/watch?v=wfjvphj1-LU
+
+## Some things to take care (PROJECTS) 
+
+StemKit (Music to STEMS) : https://github.com/danielravina/stemkit
+
+LimitOrderBook (C++) : https://github.com/rohitbattula/LimitOrderBook
+
+Building an Exchange : https://www.youtube.com/watch?v=Yzkdjw7LorE
+
+Google File System : https://github.com/pixperk/juzfs
